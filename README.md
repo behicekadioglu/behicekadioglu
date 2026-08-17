@@ -64,5 +64,5 @@ The project includes:
 
 ## 📫 Connect With Me
 
-* [LinkedIn]((https://www.linkedin.com/in/behice-kadioglu/))
+* [LinkedIn](https://www.linkedin.com/in/behice-kadioglu/)
 * [GitHub](https://github.com/behicekadioglu)
